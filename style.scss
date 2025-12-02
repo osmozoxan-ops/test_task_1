@@ -65,6 +65,7 @@ body {
   font-optical-sizing: auto;
   font-style: normal;
   min-height: 100vh;
+  overflow: hidden;
   @include flex-center;
   padding: 20px;
 }
@@ -175,7 +176,6 @@ body {
   border-radius: 50%;
   position: absolute;
   left: -555px;
-  top: 130px;
   z-index: 100;
 
   &-container {
