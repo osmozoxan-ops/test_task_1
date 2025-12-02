@@ -197,6 +197,7 @@ body {
     height: 75px;
     border-radius: 50px;
     box-shadow: $shadow;
+    transition: all 0.3s ease;
 
     // Позиции иконок меню
     &.menu-icon-pos1 {

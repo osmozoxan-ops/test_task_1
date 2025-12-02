@@ -188,6 +188,7 @@ body {
   height: 75px;
   border-radius: 50px;
   box-shadow: 15px 15px 15px -5px rgba(65, 60, 57, 0.2117647059);
+  transition: all 0.3s ease;
 }
 .menu-icon-2.menu-icon-pos1 {
   left: 557px;
